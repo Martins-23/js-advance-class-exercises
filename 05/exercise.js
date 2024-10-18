@@ -4,7 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben modificar el array
-studentsArray;
+studentsArray[1] = "Elon";
 
 // Do not edit below this line
 module.exports = studentsArray;
