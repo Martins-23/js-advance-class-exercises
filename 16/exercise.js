@@ -5,6 +5,9 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben usar Array.forEach para iterar y agregar elementos al array
+studentsArray.forEach((student) => {
+  studentsArray.push(`${student}💖`);
+});
 
 // Do not edit below this line
 module.exports = studentsArray;
