@@ -4,6 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben eliminar 'Elon' del final del array
+studentsArray.pop();
 
 // Do not edit below this line
 module.exports = studentsArray;
