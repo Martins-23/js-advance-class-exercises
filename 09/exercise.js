@@ -4,6 +4,7 @@ const studentsArray = ['Elon', 'Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 
 // 📝
 
 // Aquí los estudiantes deben eliminar 'Elon' del principio del array
+studentsArray.shift();
 
 // Do not edit below this line
 module.exports = studentsArray;
