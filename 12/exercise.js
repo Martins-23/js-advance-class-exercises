@@ -4,6 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben modificar el array usando splice
+studentsArray.splice(1, 1, "Elon", "Jeff");
 
 // Do not edit below this line
 module.exports = studentsArray;
