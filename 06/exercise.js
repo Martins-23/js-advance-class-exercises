@@ -4,6 +4,9 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben modificar el array usando un bucle for
+for (const i in studentsArray) {
+  studentsArray[i] = "Elon";
+}
 
 // Do not edit below this line
 module.exports = studentsArray;
