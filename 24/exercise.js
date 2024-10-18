@@ -3,7 +3,10 @@
 // 👀 - Propiedad llamada 'role', con el valor 'full stack'
 // 📝
 
-const result = {}; // Modificar para que contenga las propiedades 'name' y 'role'
+const result = {
+  name: "Federico",
+  role: "full stack"
+}; // Modificar para que contenga las propiedades 'name' y 'role'
 
 // Do not edit below this line
 module.exports = result;
