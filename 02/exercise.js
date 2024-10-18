@@ -4,7 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 👀 Recuerda que la longitud de un array es el número de elementos que contiene
 // 📝
 
-const result = '';
+const result = studentsArray.length;
 
 // Do not edit below this line
 module.exports = result;
