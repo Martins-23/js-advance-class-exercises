@@ -7,7 +7,15 @@
 // 👀 --- Propiedad 'Japan', cuyo valor es un array con el elemento 'Sushi🍣'
 // 📝
 
-const result = {}; // Modificar para que contenga las propiedades indicadas
+const result = {
+  favoriteFoodByCountry: {
+    Italy: ["Pizza🍕", "Pasta🍝"],
+    Japan: ["Sushi🍣"]
+  },
+  hobbies: ["music", "programming"],
+  name: "Clàudia",
+  role: "full stack"
+}; // Modificar para que contenga las propiedades indicadas
 
 // Do not edit below this line
 module.exports = result;
