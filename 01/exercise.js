@@ -2,7 +2,7 @@
 // Luis, Federico, Clàudia, Mario, Fran, Veronica
 // 📝
 
-const result = [];
+const result = ["Luis", "Federico", "Clàudia", "Mario", "Fran", "Veronica"];
 
 // Do not edit below this line
 module.exports = result;
