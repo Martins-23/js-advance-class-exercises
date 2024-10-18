@@ -12,6 +12,7 @@ const marioData = {
 // 📝
 
 // Añadir código para cambiar el valor de la propiedad 'role'
+marioData.role = "full stack developer";
 
 // Do not edit below this line
 module.exports = marioData;
