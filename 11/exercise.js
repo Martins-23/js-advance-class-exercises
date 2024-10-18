@@ -4,7 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben modificar la variable para que una los nombres con '💖' entre ellos
-const result = '';
+const result = studentsArray.join('💖');
 
 // Do not edit below this line
 module.exports = result;
