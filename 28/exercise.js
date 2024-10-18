@@ -5,6 +5,7 @@ const veronicaData = {
 
 // 👀 Añade el código necesario para agregar a veronicaData una propiedad llamada 'smart' con el valor true
 // 📝
+veronicaData.smart = true;
 
 // Do not edit below this line
 module.exports = veronicaData;
