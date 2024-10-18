@@ -12,6 +12,7 @@ const franData = {
 // 📝
 
 // Añadir código para cambiar el valor de la propiedad 'role'
+franData.favoriteFoodByCountry.Italy[1] = "Spaghetti🍝";
 
 // Do not edit below this line
 module.exports = franData;
