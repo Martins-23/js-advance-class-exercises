@@ -4,6 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben agregar 'Elon' al final del array
+studentsArray.push("Elon");
 
 // Do not edit below this line
 module.exports = studentsArray;
