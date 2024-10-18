@@ -4,7 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 👀 usando el método map() para iterar sobre studentsArray
 // 📝
 
-const result = []; // Modificar para usar map y agregar 💖
+const result = studentsArray.map((student) => `${student}💖`); // Modificar para usar map y agregar 💖
 
 // Do not edit below this line
 module.exports = result;
