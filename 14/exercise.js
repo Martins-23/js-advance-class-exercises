@@ -4,8 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben ordenar el array alfabéticamente
-
-const result = []; // Modificar para ordenar studentsArray
+const result = studentsArray.sort(); // Modificar para ordenar studentsArray
 
 // Do not edit below this line
 module.exports = result;
