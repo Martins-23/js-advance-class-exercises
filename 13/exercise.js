@@ -5,8 +5,7 @@ const teachersArray = ['Alfonso', 'Eudald', 'Facundo', 'Guillermo', 'Angel'];
 // 📝
 
 // Aquí los estudiantes deben concatenar ambos arrays
-
-const result = []; // Modificar para concatenar studentsArray y teachersArray
+const result = studentsArray.concat(teachersArray); // Modificar para concatenar studentsArray y teachersArray
 
 // Do not edit below this line
 module.exports = result;
