@@ -3,7 +3,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 👀 Edita la variable 'result' para que contenga el segundo elemento de studentsArray.
 // 📝
 
-const result = 0;
+const result = studentsArray[1];
 
 // Do not edit below this line
 module.exports = result;
