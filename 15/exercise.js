@@ -4,8 +4,7 @@ const studentsArray = ['Luis', 'Federico', 'Clàudia', 'Mario', 'Fran', 'Veronic
 // 📝
 
 // Aquí los estudiantes deben invertir el array
-
-const result = []; // Modificar para invertir studentsArray
+const result = studentsArray.reverse(); // Modificar para invertir studentsArray
 
 // Do not edit below this line
 module.exports = result;
